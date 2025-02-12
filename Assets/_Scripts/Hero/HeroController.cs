@@ -4,18 +4,22 @@ public class HeroController : MonoBehaviour
 {
     private SpriteRenderer sr;
     private float moveSpeed = 1;
+    private Rigidbody2D body;
+    
 
     private void Awake()
     {
         sr = GetComponent<SpriteRenderer>();
+        body = GetComponent<Rigidbody2D>();
     }
 
     private void Update()
     {
         float horizontalInput = Input.GetAxis("Horizontal");
         float verticalInput = Input.GetAxis("Vertical");
+
+        body.linearVelocity = new Vector2(horizontalInput * moveSpeed, verticalInput * moveSpeed);
         
-        transform.Translate(new Vector3(horizontalInput, verticalInput, 0) * moveSpeed * Time.deltaTime);
 
         if (horizontalInput > 0)
         {
