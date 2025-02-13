@@ -1,28 +1,28 @@
 fileFormatVersion: 2
-guid: 63f13f72d7113fb4bbc6674f15a92e3c
+guid: 7157bf3c585343540b54cd90f04ec9a9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6959611807755978480
-    second: mani-idle-run_0
+      213: -1681911881198070210
+    second: gabe-idle-run_0
   - first:
-      213: -7888602688566692762
-    second: mani-idle-run_1
+      213: -861021799101455676
+    second: gabe-idle-run_1
   - first:
-      213: 4301159231123130674
-    second: mani-idle-run_2
+      213: -1461208576493115977
+    second: gabe-idle-run_2
   - first:
-      213: 212457738559139563
-    second: mani-idle-run_3
+      213: 8044704013221318778
+    second: gabe-idle-run_3
   - first:
-      213: 7656493524877080987
-    second: mani-idle-run_4
+      213: 8575034355928405748
+    second: gabe-idle-run_4
   - first:
-      213: 1341980961327506848
-    second: mani-idle-run_5
+      213: -9054654299989250159
+    second: gabe-idle-run_5
   - first:
-      213: 8470605747998786379
-    second: mani-idle-run_6
+      213: 1160069886328489313
+    second: gabe-idle-run_6
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -55,7 +55,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -131,155 +131,45 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: mani-idle-run_0
+      name: gabe-idle-run_0
       rect:
         serializedVersion: 2
-        x: 4
+        x: 0
         y: 0
-        width: 16
+        width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0f6c8e7c012859060800000000000000
-      internalID: 6959611807755978480
+      spriteID: e361ea12e06a8a8e0800000000000000
+      internalID: -1681911881198070210
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: mani-idle-run_1
+      name: gabe-idle-run_5
       rect:
         serializedVersion: 2
-        x: 28
+        x: 120
         y: 0
-        width: 16
+        width: 24
         height: 24
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6647acd76ad068290800000000000000
-      internalID: -7888602688566692762
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mani-idle-run_2
-      rect:
-        serializedVersion: 2
-        x: 52
-        y: 0
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2398c7d3889c0bb30800000000000000
-      internalID: 4301159231123130674
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mani-idle-run_3
-      rect:
-        serializedVersion: 2
-        x: 75
-        y: 0
-        width: 19
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: beea994003dc2f200800000000000000
-      internalID: 212457738559139563
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mani-idle-run_4
-      rect:
-        serializedVersion: 2
-        x: 99
-        y: 0
-        width: 17
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b9970678b44514a60800000000000000
-      internalID: 7656493524877080987
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mani-idle-run_5
-      rect:
-        serializedVersion: 2
-        x: 124
-        y: 0
-        width: 16
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0a5634ff29caf9210800000000000000
-      internalID: 1341980961327506848
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: mani-idle-run_6
-      rect:
-        serializedVersion: 2
-        x: 146
-        y: 0
-        width: 19
-        height: 24
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b4389d17c03ad8570800000000000000
-      internalID: 8470605747998786379
+      spriteID: 19f6d2543e7675280800000000000000
+      internalID: -9054654299989250159
       vertices: []
       indices: 
       edges: []
@@ -288,7 +178,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 62e30e1849e36414c9b071b682c4055a
     internalID: 0
     vertices: []
     indices: 
@@ -298,13 +188,13 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      mani-idle-run_0: 6959611807755978480
-      mani-idle-run_1: -7888602688566692762
-      mani-idle-run_2: 4301159231123130674
-      mani-idle-run_3: 212457738559139563
-      mani-idle-run_4: 7656493524877080987
-      mani-idle-run_5: 1341980961327506848
-      mani-idle-run_6: 8470605747998786379
+      gabe-idle-run_0: -1681911881198070210
+      gabe-idle-run_1: -861021799101455676
+      gabe-idle-run_2: -1461208576493115977
+      gabe-idle-run_3: 8044704013221318778
+      gabe-idle-run_4: 8575034355928405748
+      gabe-idle-run_5: -9054654299989250159
+      gabe-idle-run_6: 1160069886328489313
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
