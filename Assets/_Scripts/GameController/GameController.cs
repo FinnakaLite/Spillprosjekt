@@ -14,7 +14,7 @@ public class GameController : MonoBehaviour
     {
         if (SceneManager.GetActiveScene().name == "Initialize")
         {
-            SceneManager.LoadScene("Scenes/LevelTemplate");
+            SceneManager.LoadScene("Scenes/MenuTemplate");
         }
     }
 }
