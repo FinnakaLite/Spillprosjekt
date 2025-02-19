@@ -44,11 +44,11 @@ TagManager:
   - name: Background
     uniqueID: 3190818579
     locked: 0
-  - name: Foreground
-    uniqueID: 3962153747
-    locked: 0
   - name: Collide
     uniqueID: 913288695
+    locked: 0
+  - name: Foreground
+    uniqueID: 3962153747
     locked: 0
   - name: Player
     uniqueID: 529716567
