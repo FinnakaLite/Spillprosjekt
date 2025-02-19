@@ -1,10 +1,37 @@
 fileFormatVersion: 2
-guid: 8041cdacf1115d844b2066d8f1d28d49
+guid: 01e61ca895e9b6d40b021a73c887d14a
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7502727856550897091
-    second: sphere_border_0
+      213: -8227546954408941770
+    second: HealthBar_0
+  - first:
+      213: -3178617384780871938
+    second: HealthBar_1
+  - first:
+      213: 5032351099696674128
+    second: HealthBar_2
+  - first:
+      213: 5856585005746452560
+    second: HealthBar_3
+  - first:
+      213: -6503669339106013020
+    second: HealthBar_4
+  - first:
+      213: -7959300830350487195
+    second: HealthBar_5
+  - first:
+      213: 4778905902034280743
+    second: HealthBar_6
+  - first:
+      213: -5794802862350705069
+    second: HealthBar_7
+  - first:
+      213: 742694783190739037
+    second: HealthBar_8
+  - first:
+      213: -8435055190330730327
+    second: HealthBar_9
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +140,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: sphere_border_0
+      name: HealthBar_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 150
-        height: 150
+        width: 1225
+        height: 128
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3c5e4200c3b0f1860800000000000000
-      internalID: 7502727856550897091
+      spriteID: 8debfd0e6f7828f428e41b776833a5a3
+      internalID: 636992312
       vertices: []
       indices: 
       edges: []
@@ -138,7 +165,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 1290b8dff203a0c4ba646cd6c6b0c707
     internalID: 0
     vertices: []
     indices: 
@@ -147,7 +174,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      HealthBar_0: 636992312
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

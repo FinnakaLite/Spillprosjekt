@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 5438619711883727047}
   - component: {fileID: 5141179635126536800}
   - component: {fileID: 1410299780615757040}
+  - component: {fileID: 7626015860505322368}
   m_Layer: 0
   m_Name: Hero-control
   m_TagString: Untagged
@@ -77,8 +78,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 529716567
+  m_SortingLayer: 4
   m_SortingOrder: 0
   m_Sprite: {fileID: -1681911881198070210, guid: d33e86cd21f2a0c419d77cffa0f0d191, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -188,3 +189,16 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0.006395243, y: -0.08441724}
   m_Radius: 0.033024684
+--- !u!114 &7626015860505322368
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1862448059180466506}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c24531af96bc0c44897e34631ca9553, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  startingHealth: 3
