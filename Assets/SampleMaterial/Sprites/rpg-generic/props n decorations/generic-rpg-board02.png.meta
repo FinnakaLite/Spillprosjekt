@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      generic-rpg-board02_0: -442972286669339445
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

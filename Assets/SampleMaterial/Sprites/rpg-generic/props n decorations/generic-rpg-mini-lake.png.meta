@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      generic-rpg-mini-lake_0: 5711355430836367490
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

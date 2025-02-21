@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      generic-rpg-ui-inventario02_0: 8544361451856914414
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

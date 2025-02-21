@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      generic-rpg-crate02_0: 1583382997042903075
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

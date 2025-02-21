@@ -222,7 +222,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      generic-rpg-grass02_0: -6030610368088493089
+      generic-rpg-grass02_1: -2676455702928379361
+      generic-rpg-grass02_2: 7086210601327767392
+      generic-rpg-grass02_3: 7793440057662146243
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

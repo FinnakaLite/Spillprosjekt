@@ -497,7 +497,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      kobold-idle_0: 276904895954819595
+      kobold-idle_1: 5307777266665752669
+      kobold-idle_10: 7020752967211285477
+      kobold-idle_11: 8739707527893751264
+      kobold-idle_12: -381998946611403455
+      kobold-idle_13: -3058652689267722911
+      kobold-idle_14: 8801192731892451419
+      kobold-idle_2: 93945695273004089
+      kobold-idle_3: 8514009249067108778
+      kobold-idle_4: -5619066311422336320
+      kobold-idle_5: 6422664847982147583
+      kobold-idle_6: -3284705939101091021
+      kobold-idle_7: 3020508006316739122
+      kobold-idle_8: 4748859436328984995
+      kobold-idle_9: -7420362720548831229
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

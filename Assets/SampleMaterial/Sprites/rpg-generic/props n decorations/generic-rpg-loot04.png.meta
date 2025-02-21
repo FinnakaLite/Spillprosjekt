@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      generic-rpg-loot04_0: 6703585411650210245
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

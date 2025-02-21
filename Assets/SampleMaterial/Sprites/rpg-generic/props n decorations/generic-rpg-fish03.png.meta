@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      generic-rpg-fish03_0: -5263621810196114141
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

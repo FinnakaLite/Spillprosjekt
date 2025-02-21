@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      generic-rpg-ui-text-box_0: 4765177785708036094
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

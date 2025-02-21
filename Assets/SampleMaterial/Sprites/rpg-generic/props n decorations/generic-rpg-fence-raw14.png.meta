@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      generic-rpg-fence-raw14_0: 7456607040468256886
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

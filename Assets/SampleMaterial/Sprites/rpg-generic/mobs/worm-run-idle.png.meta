@@ -747,7 +747,32 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      worm-run-idle_0: 8103945184084792035
+      worm-run-idle_1: 3734032013501745865
+      worm-run-idle_10: -8104004081881251080
+      worm-run-idle_11: 3340325193029791168
+      worm-run-idle_12: -4349552820797256959
+      worm-run-idle_13: 3261771815662706049
+      worm-run-idle_14: -9044982393968511843
+      worm-run-idle_15: 6329678775536121717
+      worm-run-idle_16: 6524472971054802646
+      worm-run-idle_17: 21778741616347268
+      worm-run-idle_18: -6084364861447180554
+      worm-run-idle_19: -163362140353225574
+      worm-run-idle_2: -1647204893605590861
+      worm-run-idle_20: -3837983852478274161
+      worm-run-idle_21: 1810419731629653721
+      worm-run-idle_22: 686711869499875100
+      worm-run-idle_23: -3275364604583436365
+      worm-run-idle_24: 6919142530402969963
+      worm-run-idle_3: 5103615750064185853
+      worm-run-idle_4: 7968459771846374044
+      worm-run-idle_5: -1860070048941976397
+      worm-run-idle_6: -8638342687749767093
+      worm-run-idle_7: 5775778235632373635
+      worm-run-idle_8: 8058723861704379355
+      worm-run-idle_9: 3631767719067754972
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

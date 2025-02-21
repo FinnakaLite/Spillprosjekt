@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      generic-rpg-rock06_0: 3643035068566666500
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

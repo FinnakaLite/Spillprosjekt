@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      generic-rpg-house-inn_0: -8909987189740491978
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

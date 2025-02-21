@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      generic-rpg-flower03_0: 8184817030192882143
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

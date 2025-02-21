@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      generic-rpg-barrel03_0: 6033032117407226364
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
