@@ -17,4 +17,9 @@ public class GameController : MonoBehaviour
             SceneManager.LoadScene("Scenes/MenuTemplate");
         }
     }
+
+    public void Death()
+    {
+        SceneManager.LoadScene("Scenes/DeathMenu");
+    }
 }
