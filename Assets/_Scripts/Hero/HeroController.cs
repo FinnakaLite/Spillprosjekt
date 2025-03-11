@@ -3,7 +3,7 @@ using UnityEngine;
 public class HeroController : MonoBehaviour
 {
     private SpriteRenderer sr;
-    private float moveSpeed = 5f; // Adjusted speed for platformer
+    private float moveSpeed = 2.75f; // Adjusted speed for platformer
     private Rigidbody2D body;
     private Animator animator;
 
