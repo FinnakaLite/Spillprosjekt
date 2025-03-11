@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 845a9678e37b9e7479117119d7924b05
+guid: 4b18937c6977fec4a8eb72a882a328d4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2012347919899224216
-    second: Arrow fr_0
+      213: -8642704971295071997
+    second: Quit_hoverRed_0
+  - first:
+      213: -1353118428560712725
+    second: Quit_hoverRed_1
+  - first:
+      213: -2502439328505917899
+    second: Quit_hoverRed_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +43,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -46,7 +52,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -100,12 +106,34 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Arrow fr_0
+      name: Quit_hoverRed_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 1
-        width: 7
+        x: 0
+        y: 0
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 301647f9e91fe0880800000000000000
+      internalID: -8642704971295071997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit_hoverRed_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3
+        width: 15
         height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -115,8 +143,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 86719ed8a34b214e0800000000000000
-      internalID: -2012347919899224216
+      spriteID: beb9a9655f1c83de0800000000000000
+      internalID: -1353118428560712725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Quit_hoverRed_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e007070bc854dd0800000000000000
+      internalID: -2502439328505917899
       vertices: []
       indices: 
       edges: []
@@ -125,7 +175,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +185,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Arrow fr_0: -2012347919899224216
+      Quit_hoverRed_0: -8642704971295071997
+      Quit_hoverRed_1: -1353118428560712725
+      Quit_hoverRed_2: -2502439328505917899
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
