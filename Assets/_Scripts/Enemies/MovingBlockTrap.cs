@@ -3,7 +3,7 @@ using UnityEngine;
 public class MovingBlockTrap : MonoBehaviour
 {
     [SerializeField] float speed;
-    [SerializeField] float range;
+    [SerializeField] float range; 
     [SerializeField] private float checkDelay;
     private float checkTimer;
     private Vector3 destination;
