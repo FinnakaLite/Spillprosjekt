@@ -41,6 +41,12 @@ public class Enemy_UpDown : MonoBehaviour
             }
         }
     }
+    
+    // Public method to check if the object is moving up
+    public bool IsMovingUp()
+    {
+        return movingUp;
+    }
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
