@@ -117,6 +117,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -309,7 +322,15 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Deathscreen_0003_You-died_0: 5097594557726959315
+      Deathscreen_0003_You-died_1: -9036782780750185472
+      Deathscreen_0003_You-died_2: -8877263028349669313
+      Deathscreen_0003_You-died_3: 4312164460004721649
+      Deathscreen_0003_You-died_4: -8387970371815288020
+      Deathscreen_0003_You-died_5: 1143073176721477085
+      Deathscreen_0003_You-died_6: -349610635342266125
+      Deathscreen_0003_You-died_7: -6260493892775667790
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
