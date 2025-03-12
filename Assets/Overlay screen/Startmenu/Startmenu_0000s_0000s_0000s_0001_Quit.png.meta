@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 845a9678e37b9e7479117119d7924b05
+guid: 95a8d74eb10a69845bf57d3f6bbe7e11
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2012347919899224216
-    second: Arrow fr_0
+      213: 3104127112146158795
+    second: Startmenu_0000s_0000s_0000s_0001_Quit_0
+  - first:
+      213: 6615455522093010155
+    second: Startmenu_0000s_0000s_0000s_0001_Quit_1
+  - first:
+      213: 1106242454460459659
+    second: Startmenu_0000s_0000s_0000s_0001_Quit_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +52,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -96,29 +102,38 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Arrow fr_0
+      name: Startmenu_0000s_0000s_0000s_0001_Quit_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 1
-        width: 7
+        x: 0
+        y: 0
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc481218923141b20800000000000000
+      internalID: 3104127112146158795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0000s_0001_Quit_1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 3
+        width: 15
         height: 15
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -128,8 +143,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 86719ed8a34b214e0800000000000000
-      internalID: -2012347919899224216
+      spriteID: bec00c54fb1decb50800000000000000
+      internalID: 6615455522093010155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0000s_0001_Quit_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a6295b6a92a5f00800000000000000
+      internalID: 1106242454460459659
       vertices: []
       indices: 
       edges: []
@@ -138,7 +175,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +185,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Arrow fr_0: -2012347919899224216
+      Startmenu_0000s_0000s_0000s_0001_Quit_0: 3104127112146158795
+      Startmenu_0000s_0000s_0000s_0001_Quit_1: 6615455522093010155
+      Startmenu_0000s_0000s_0000s_0001_Quit_2: 1106242454460459659
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

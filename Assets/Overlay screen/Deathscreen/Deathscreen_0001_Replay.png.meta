@@ -1,10 +1,16 @@
 fileFormatVersion: 2
-guid: 845a9678e37b9e7479117119d7924b05
+guid: a696639d3a588ec4db1bf119610dd6e1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2012347919899224216
-    second: Arrow fr_0
+      213: 3893875049668243729
+    second: Deathscreen_0001_Replay_0
+  - first:
+      213: 5166977370553922907
+    second: Deathscreen_0001_Replay_1
+  - first:
+      213: 3229147748929387629
+    second: Deathscreen_0001_Replay_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +119,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Arrow fr_0
+      name: Deathscreen_0001_Replay_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 1
-        width: 7
-        height: 15
+        x: 0
+        y: 0
+        width: 36
+        height: 12
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +134,52 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 86719ed8a34b214e0800000000000000
-      internalID: -2012347919899224216
+      spriteID: 1117b3f1ab2d90630800000000000000
+      internalID: 3893875049668243729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathscreen_0001_Replay_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 0
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b55395eea8ac4b740800000000000000
+      internalID: 5166977370553922907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathscreen_0001_Replay_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c3036d4cc30dc20800000000000000
+      internalID: 3229147748929387629
       vertices: []
       indices: 
       edges: []
@@ -148,7 +198,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Arrow fr_0: -2012347919899224216
+      Deathscreen_0001_Replay_0: 3893875049668243729
+      Deathscreen_0001_Replay_1: 5166977370553922907
+      Deathscreen_0001_Replay_2: 3229147748929387629
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

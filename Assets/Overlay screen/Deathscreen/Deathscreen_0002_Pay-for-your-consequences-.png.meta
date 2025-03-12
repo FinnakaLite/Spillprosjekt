@@ -1,10 +1,19 @@
 fileFormatVersion: 2
-guid: 845a9678e37b9e7479117119d7924b05
+guid: c1b9cfe5d34008442a19d4dd15e5aa2c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2012347919899224216
-    second: Arrow fr_0
+      213: 2812785002039205073
+    second: Deathscreen_0002_Pay-for-your-consequences-_0
+  - first:
+      213: 6828182417094417396
+    second: Deathscreen_0002_Pay-for-your-consequences-_1
+  - first:
+      213: -9154020950706759377
+    second: Deathscreen_0002_Pay-for-your-consequences-_2
+  - first:
+      213: 1277794714225341753
+    second: Deathscreen_0002_Pay-for-your-consequences-_3
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,13 +122,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Arrow fr_0
+      name: Deathscreen_0002_Pay-for-your-consequences-_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 1
-        width: 7
-        height: 15
+        x: 0
+        y: 0
+        width: 24
+        height: 9
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +137,74 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 86719ed8a34b214e0800000000000000
-      internalID: -2012347919899224216
+      spriteID: 1dcd71c7e05090720800000000000000
+      internalID: 2812785002039205073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathscreen_0002_Pay-for-your-consequences-_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb1b782bb392ce50800000000000000
+      internalID: 6828182417094417396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathscreen_0002_Pay-for-your-consequences-_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 35
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29d3a6027266f080800000000000000
+      internalID: -9154020950706759377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deathscreen_0002_Pay-for-your-consequences-_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 0
+        width: 98
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 935f545c583abb110800000000000000
+      internalID: 1277794714225341753
       vertices: []
       indices: 
       edges: []
@@ -148,7 +223,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Arrow fr_0: -2012347919899224216
+      Deathscreen_0002_Pay-for-your-consequences-_0: 2812785002039205073
+      Deathscreen_0002_Pay-for-your-consequences-_1: 6828182417094417396
+      Deathscreen_0002_Pay-for-your-consequences-_2: -9154020950706759377
+      Deathscreen_0002_Pay-for-your-consequences-_3: 1277794714225341753
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

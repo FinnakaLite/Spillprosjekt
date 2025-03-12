@@ -1,10 +1,31 @@
 fileFormatVersion: 2
-guid: 845a9678e37b9e7479117119d7924b05
+guid: df21ae263fb4650448e056a42bf942d8
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2012347919899224216
-    second: Arrow fr_0
+      213: 5097594557726959315
+    second: Deathscreen_0003_You-died_0
+  - first:
+      213: -9036782780750185472
+    second: Deathscreen_0003_You-died_1
+  - first:
+      213: -8877263028349669313
+    second: Deathscreen_0003_You-died_2
+  - first:
+      213: 4312164460004721649
+    second: Deathscreen_0003_You-died_3
+  - first:
+      213: -8387970371815288020
+    second: Deathscreen_0003_You-died_4
+  - first:
+      213: 1143073176721477085
+    second: Deathscreen_0003_You-died_5
+  - first:
+      213: -349610635342266125
+    second: Deathscreen_0003_You-died_6
+  - first:
+      213: -6260493892775667790
+    second: Deathscreen_0003_You-died_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -113,23 +134,23 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Arrow fr_0
+      name: FULL Deathscreen_0003_You-died_0
       rect:
         serializedVersion: 2
-        x: 4
-        y: 1
-        width: 7
-        height: 15
+        x: 0
+        y: 0
+        width: 213
+        height: 34
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 86719ed8a34b214e0800000000000000
-      internalID: -2012347919899224216
+      spriteID: 24e35094da91df745b6465d968f8a1cc
+      internalID: 884837152
       vertices: []
       indices: 
       edges: []
@@ -138,7 +159,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 15e6cb59a33b4b547b31d235d42b5c27
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +169,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Arrow fr_0: -2012347919899224216
+      FULL Deathscreen_0003_You-died_0: 884837152
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

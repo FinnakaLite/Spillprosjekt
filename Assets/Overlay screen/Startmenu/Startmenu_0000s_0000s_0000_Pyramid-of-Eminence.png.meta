@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: 45c7d7bf3334f5940bd3ab3fe21886fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5407371398444946383
+    second: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_0
+  - first:
+      213: 8032776591277690989
+    second: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_1
+  - first:
+      213: 2881952926246555246
+    second: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_2
+  - first:
+      213: 771434346822861142
+    second: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_3
+  - first:
+      213: -6960141101883888528
+    second: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_4
+  - first:
+      213: -9009559843727408457
+    second: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_5
+  - first:
+      213: -991270175172817111
+    second: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_6
+  - first:
+      213: 278412557455339812
+    second: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_7
+  - first:
+      213: -6221233460288334406
+    second: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_8
+  - first:
+      213: -3266207628853794796
+    second: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_9
+  - first:
+      213: -751731913078009979
+    second: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_10
+  - first:
+      213: 3882464423474405205
+    second: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_11
+  - first:
+      213: 1648554333546641601
+    second: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_12
+  - first:
+      213: -507319804338528143
+    second: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_13
+  - first:
+      213: 8482713384868921000
+    second: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ce413dc5825f4b0800000000000000
+      internalID: -5407371398444946383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d601e2310c72a7f60800000000000000
+      internalID: 8032776591277690989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_2
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 2
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ec25ccae0cef720800000000000000
+      internalID: 2881952926246555246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 2
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65189e1837fa4ba00800000000000000
+      internalID: 771434346822861142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_4
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c6d935b8c986f90800000000000000
+      internalID: -6960141101883888528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_5
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 2
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2010c8e0d97f280800000000000000
+      internalID: -9009559843727408457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_6
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 2
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92f8264170d4e32f0800000000000000
+      internalID: -991270175172817111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 2
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4213224febe1dd300800000000000000
+      internalID: 278412557455339812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_8
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 2
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab55dbe112db9a9a0800000000000000
+      internalID: -6221233460288334406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418af7777791ca2d0800000000000000
+      internalID: -3266207628853794796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 2
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f09a2decf4195f0800000000000000
+      internalID: -751731913078009979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f984ea2d841e530800000000000000
+      internalID: 3882464423474405205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_12
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c87af39e67d0e610800000000000000
+      internalID: 1648554333546641601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_13
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 2
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 170a1ea6353a5f8f0800000000000000
+      internalID: -507319804338528143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ae309451e6a8b570800000000000000
+      internalID: 8482713384868921000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_0: -5407371398444946383
+      Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_1: 8032776591277690989
+      Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_10: -751731913078009979
+      Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_11: 3882464423474405205
+      Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_12: 1648554333546641601
+      Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_13: -507319804338528143
+      Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_14: 8482713384868921000
+      Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_2: 2881952926246555246
+      Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_3: 771434346822861142
+      Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_4: -6960141101883888528
+      Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_5: -9009559843727408457
+      Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_6: -991270175172817111
+      Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_7: 278412557455339812
+      Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_8: -6221233460288334406
+      Startmenu_0000s_0000s_0000_Pyramid-of-Eminence_9: -3266207628853794796
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
