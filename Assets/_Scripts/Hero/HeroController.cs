@@ -13,6 +13,7 @@ public class HeroController : MonoBehaviour
     public Transform groundCheck; // Position to check if the hero is grounded
     public float groundCheckRadius = 0.2f; // Radius for ground check
     public LayerMask groundLayer; // Layer to identify ground
+    public DialogueBoxUIController dialogueBoxController;
 
     private void Awake()
     {
@@ -25,7 +26,8 @@ public class HeroController : MonoBehaviour
     {
         // Horizontal movement
         float horizontalInput = Input.GetAxis("Horizontal");
-        body.linearVelocity = new Vector2(horizontalInput * moveSpeed, body.linearVelocity.y); // Maintain vertical velocity for jumping
+        body.linearVelocity =
+            new Vector2(horizontalInput * moveSpeed, body.linearVelocity.y); // Maintain vertical velocity for jumping
 
         // Sprite Renderer Logic
         if (horizontalInput > 0)
@@ -46,6 +48,20 @@ public class HeroController : MonoBehaviour
         {
             body.AddForce(new Vector2(0f, jumpForce), ForceMode2D.Impulse);
         }
+
+
+        
+            // For example, press Space to show the dialogue (Dialogue 1)
+            if (Input.GetKeyDown(KeyCode.Space))
+            {
+                dialogueBoxController.ShowDialogue(1);
+            }
+            // Press Escape to hide the dialogue.
+            if (Input.GetKeyDown(KeyCode.Escape))
+            {
+                dialogueBoxController.HideDialogue();
+            }
+        
     }
 
     private void OnDrawGizmos()
