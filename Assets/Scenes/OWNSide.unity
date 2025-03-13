@@ -13364,6 +13364,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   fadeDuration: 3
+  dialogueBoxController: {fileID: 1629388542}
 --- !u!4 &1266790499 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 9191663572479479601, guid: 135a1aa806010ec42bef837c73f7a8de, type: 3}

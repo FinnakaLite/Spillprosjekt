@@ -19,7 +19,7 @@ public class DeathMenu : MonoBehaviour
             if (gameController != null)
             {
                 // Call the Death function
-                gameController.Replay();
+                gameController.Nextlevel(2);
             }
             else
             {

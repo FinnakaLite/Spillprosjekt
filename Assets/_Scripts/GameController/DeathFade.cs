@@ -6,6 +6,7 @@ public class DeathFade : MonoBehaviour
     public float fadeDuration = 3f;
     private Image deathFadeImage;
     private float targetAlpha = 2.55f; // 100% opacity
+    public DialogueBoxUIController dialogueBoxController;
 
     public void prepareFade()
     {
@@ -44,6 +45,7 @@ public class DeathFade : MonoBehaviour
 
     IEnumerator FadeInCoroutine()
     {
+        dialogueBoxController.HideDialogue();
         float elapsedTime = 0f;
         Color startColor = deathFadeImage.color;
         Color endColor = startColor;

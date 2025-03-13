@@ -16,7 +16,7 @@ public class GameController : MonoBehaviour
     {
         if (SceneManager.GetActiveScene().name == "Initialize")
         {
-            SceneManager.LoadScene("Scenes/OWNSide");
+            SceneManager.LoadScene("Scenes/Startmenu");
         }
     }
 
@@ -41,6 +41,23 @@ public class GameController : MonoBehaviour
         //Replay function is in the game controller, to make developement of logic that knows what level the player is on. For example a death on level 2 wont sent u back to level 1.
         SceneManager.LoadScene("Scenes/OWNSide");
     }
+
+    public void Nextlevel(int levelNumber)
+    {
+        switch (levelNumber)
+        {
+            case 0:
+                SceneManager.LoadScene("OWNSide");
+                break;
+            case 1:
+                SceneManager.LoadScene("Scenes/OWNSide 1");
+                break;
+            case 2:
+                SceneManager.LoadScene("Scenes/Startmenu");
+                break;
+        }
+    }
+    
 
 }
 
