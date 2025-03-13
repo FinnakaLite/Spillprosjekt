@@ -48,19 +48,6 @@ public class HeroController : MonoBehaviour
         {
             body.AddForce(new Vector2(0f, jumpForce), ForceMode2D.Impulse);
         }
-
-
-        
-            // For example, press Space to show the dialogue (Dialogue 1)
-            if (Input.GetKeyDown(KeyCode.Space))
-            {
-                dialogueBoxController.ShowDialogue(1);
-            }
-            // Press Escape to hide the dialogue.
-            if (Input.GetKeyDown(KeyCode.Escape))
-            {
-                dialogueBoxController.HideDialogue();
-            }
         
     }
 
