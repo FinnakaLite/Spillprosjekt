@@ -1,0 +1,975 @@
+fileFormatVersion: 2
+guid: ad3393644f4f9ab418ee955df7b8e2b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5905597348629251404
+    second: Startmenu_0000s_0000s_0001_sand-texture_0
+  - first:
+      213: 3136282713641417550
+    second: Startmenu_0000s_0000s_0001_sand-texture_1
+  - first:
+      213: 1468360427423133122
+    second: Startmenu_0000s_0000s_0001_sand-texture_2
+  - first:
+      213: 8553933290190859986
+    second: Startmenu_0000s_0000s_0001_sand-texture_3
+  - first:
+      213: 2880603579259402246
+    second: Startmenu_0000s_0000s_0001_sand-texture_4
+  - first:
+      213: 6677274939781377368
+    second: Startmenu_0000s_0000s_0001_sand-texture_5
+  - first:
+      213: -2388276956894853598
+    second: Startmenu_0000s_0000s_0001_sand-texture_6
+  - first:
+      213: -6798201199854757903
+    second: Startmenu_0000s_0000s_0001_sand-texture_7
+  - first:
+      213: -3862575817147718763
+    second: Startmenu_0000s_0000s_0001_sand-texture_8
+  - first:
+      213: 1810972636533648044
+    second: Startmenu_0000s_0000s_0001_sand-texture_9
+  - first:
+      213: -8001275122610989196
+    second: Startmenu_0000s_0000s_0001_sand-texture_10
+  - first:
+      213: -996072036420257603
+    second: Startmenu_0000s_0000s_0001_sand-texture_11
+  - first:
+      213: -4198478941115437049
+    second: Startmenu_0000s_0000s_0001_sand-texture_12
+  - first:
+      213: 4806196632702324878
+    second: Startmenu_0000s_0000s_0001_sand-texture_13
+  - first:
+      213: -6303618490334114493
+    second: Startmenu_0000s_0000s_0001_sand-texture_14
+  - first:
+      213: -7803726584701762462
+    second: Startmenu_0000s_0000s_0001_sand-texture_15
+  - first:
+      213: 8303206620776632365
+    second: Startmenu_0000s_0000s_0001_sand-texture_16
+  - first:
+      213: -2411534116063895134
+    second: Startmenu_0000s_0000s_0001_sand-texture_17
+  - first:
+      213: 2784747378795929276
+    second: Startmenu_0000s_0000s_0001_sand-texture_18
+  - first:
+      213: 4558642786025814601
+    second: Startmenu_0000s_0000s_0001_sand-texture_19
+  - first:
+      213: -5273025677805825603
+    second: Startmenu_0000s_0000s_0001_sand-texture_20
+  - first:
+      213: 1831078466790257687
+    second: Startmenu_0000s_0000s_0001_sand-texture_21
+  - first:
+      213: -3950480895047778497
+    second: Startmenu_0000s_0000s_0001_sand-texture_22
+  - first:
+      213: -4348115368296255559
+    second: Startmenu_0000s_0000s_0001_sand-texture_23
+  - first:
+      213: 3532537629345579064
+    second: Startmenu_0000s_0000s_0001_sand-texture_24
+  - first:
+      213: 4503377505749298020
+    second: Startmenu_0000s_0000s_0001_sand-texture_25
+  - first:
+      213: 6896964701569112221
+    second: Startmenu_0000s_0000s_0001_sand-texture_26
+  - first:
+      213: -2986071870315445629
+    second: Startmenu_0000s_0000s_0001_sand-texture_27
+  - first:
+      213: -82572899578463502
+    second: Startmenu_0000s_0000s_0001_sand-texture_28
+  - first:
+      213: 377862482204440896
+    second: Startmenu_0000s_0000s_0001_sand-texture_29
+  - first:
+      213: -1445710206943870363
+    second: Startmenu_0000s_0000s_0001_sand-texture_30
+  - first:
+      213: -7524792216964863247
+    second: Startmenu_0000s_0000s_0001_sand-texture_31
+  - first:
+      213: -3010048314773363418
+    second: Startmenu_0000s_0000s_0001_sand-texture_32
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 134
+        width: 54
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c450987df75e4f150800000000000000
+      internalID: 5905597348629251404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 136
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b7bc5e280568b20800000000000000
+      internalID: 3136282713641417550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 147
+        width: 20
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdebce670aa06410800000000000000
+      internalID: 1468360427423133122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_3
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 139
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dee63ab10da5b670800000000000000
+      internalID: 8553933290190859986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 125
+        width: 49
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 608b97871b5f9f720800000000000000
+      internalID: 2880603579259402246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_5
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 132
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d69451e227aac50800000000000000
+      internalID: 6677274939781377368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 133
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2260807e2c22bded0800000000000000
+      internalID: -2388276956894853598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_7
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 123
+        width: 43
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7d503f600f7a1a0800000000000000
+      internalID: -6798201199854757903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 135
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59365e452cf556ac0800000000000000
+      internalID: -3862575817147718763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_9
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 137
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa6a8a940ed12910800000000000000
+      internalID: 1810972636533648044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_10
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 125
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4771a962ba2c5f090800000000000000
+      internalID: -8001275122610989196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_11
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 128
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db87872a2cd3d22f0800000000000000
+      internalID: -996072036420257603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 127
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7003bd5c5a10cb5c0800000000000000
+      internalID: -4198478941115437049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_13
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 124
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8096e48f5a03b240800000000000000
+      internalID: 4806196632702324878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 46
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d0d0c816c0588a0800000000000000
+      internalID: -6303618490334114493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 118
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2644492640893b390800000000000000
+      internalID: -7803726584701762462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_16
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 112
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d201018ed6aea3370800000000000000
+      internalID: 8303206620776632365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_17
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 110
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a1a6409f72888ed0800000000000000
+      internalID: -2411534116063895134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_18
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 102
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbed45e9cf865a620800000000000000
+      internalID: 2784747378795929276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 11
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94a37fe067d834f30800000000000000
+      internalID: 4558642786025814601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 4
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db1dede651372d6b0800000000000000
+      internalID: -5273025677805825603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_21
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 62
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71476e00a2c496910800000000000000
+      internalID: 1831078466790257687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_22
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 60
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3fb5b67e821d29c0800000000000000
+      internalID: -3950480895047778497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfe84e1c1468a3c0800000000000000
+      internalID: -4348115368296255559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 13
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83008d8f148160130800000000000000
+      internalID: 3532537629345579064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46beba74bf53f7e30800000000000000
+      internalID: 4503377505749298020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 13
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d985f69bad0f6bf50800000000000000
+      internalID: 6896964701569112221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382cf0074775f86d0800000000000000
+      internalID: -2986071870315445629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_28
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 3
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa3d84a264aadef0800000000000000
+      internalID: -82572899578463502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_29
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 3
+        width: 21
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0493eb1fcef6e3500800000000000000
+      internalID: 377862482204440896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_30
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56244faf93ecfebe0800000000000000
+      internalID: -1445710206943870363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_31
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 0
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa6f23c851929790800000000000000
+      internalID: -7524792216964863247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Startmenu_0000s_0000s_0001_sand-texture_32
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625ab2171092a36d0800000000000000
+      internalID: -3010048314773363418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Startmenu_0000s_0000s_0001_sand-texture_0: 5905597348629251404
+      Startmenu_0000s_0000s_0001_sand-texture_1: 3136282713641417550
+      Startmenu_0000s_0000s_0001_sand-texture_10: -8001275122610989196
+      Startmenu_0000s_0000s_0001_sand-texture_11: -996072036420257603
+      Startmenu_0000s_0000s_0001_sand-texture_12: -4198478941115437049
+      Startmenu_0000s_0000s_0001_sand-texture_13: 4806196632702324878
+      Startmenu_0000s_0000s_0001_sand-texture_14: -6303618490334114493
+      Startmenu_0000s_0000s_0001_sand-texture_15: -7803726584701762462
+      Startmenu_0000s_0000s_0001_sand-texture_16: 8303206620776632365
+      Startmenu_0000s_0000s_0001_sand-texture_17: -2411534116063895134
+      Startmenu_0000s_0000s_0001_sand-texture_18: 2784747378795929276
+      Startmenu_0000s_0000s_0001_sand-texture_19: 4558642786025814601
+      Startmenu_0000s_0000s_0001_sand-texture_2: 1468360427423133122
+      Startmenu_0000s_0000s_0001_sand-texture_20: -5273025677805825603
+      Startmenu_0000s_0000s_0001_sand-texture_21: 1831078466790257687
+      Startmenu_0000s_0000s_0001_sand-texture_22: -3950480895047778497
+      Startmenu_0000s_0000s_0001_sand-texture_23: -4348115368296255559
+      Startmenu_0000s_0000s_0001_sand-texture_24: 3532537629345579064
+      Startmenu_0000s_0000s_0001_sand-texture_25: 4503377505749298020
+      Startmenu_0000s_0000s_0001_sand-texture_26: 6896964701569112221
+      Startmenu_0000s_0000s_0001_sand-texture_27: -2986071870315445629
+      Startmenu_0000s_0000s_0001_sand-texture_28: -82572899578463502
+      Startmenu_0000s_0000s_0001_sand-texture_29: 377862482204440896
+      Startmenu_0000s_0000s_0001_sand-texture_3: 8553933290190859986
+      Startmenu_0000s_0000s_0001_sand-texture_30: -1445710206943870363
+      Startmenu_0000s_0000s_0001_sand-texture_31: -7524792216964863247
+      Startmenu_0000s_0000s_0001_sand-texture_32: -3010048314773363418
+      Startmenu_0000s_0000s_0001_sand-texture_4: 2880603579259402246
+      Startmenu_0000s_0000s_0001_sand-texture_5: 6677274939781377368
+      Startmenu_0000s_0000s_0001_sand-texture_6: -2388276956894853598
+      Startmenu_0000s_0000s_0001_sand-texture_7: -6798201199854757903
+      Startmenu_0000s_0000s_0001_sand-texture_8: -3862575817147718763
+      Startmenu_0000s_0000s_0001_sand-texture_9: 1810972636533648044
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
